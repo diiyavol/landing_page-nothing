@@ -1,7 +1,7 @@
 
 # 🖤 Nothing - Landing Page
 
-A small, minimalist landing page designed for presentations, showcasing the features of a flagship product. ✨
+> A small, minimalist landing page designed for presentations, showcasing the features of a flagship product. ✨
 
 
 ## 🛠 Tech Stack
